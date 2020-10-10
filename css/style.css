@@ -1,0 +1,32 @@
+.ul {
+    text-align: center;
+    height: 50px;
+}
+
+.nav {
+    background-color: gray;
+}
+
+.li {
+    display: inline-block;
+    padding-top: 17px;
+    color: cornsilk;
+    margin-right: 40px;
+}
+
+.btn {
+    color: Red;
+    background-color: white;
+    border-radius: 20em;
+    border: 0px;
+
+}
+
+.row1 {
+    text-align: center;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
